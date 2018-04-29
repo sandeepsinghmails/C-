@@ -1,2 +1,1 @@
-# C-
 Basic C++ Utilities
