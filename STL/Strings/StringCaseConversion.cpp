@@ -22,4 +22,3 @@ int main()
     cout << str2 << endl;
 
     return 0;
-}
